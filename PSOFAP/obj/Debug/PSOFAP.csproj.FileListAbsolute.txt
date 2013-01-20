@@ -1,0 +1,48 @@
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\Window1.baml
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\Window1.g.cs
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\App.g.cs
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP_MarkupCompile.cache
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP.g.resources
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP.Properties.Resources.resources
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP.csproj.GenerateResource.Cache
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\bin\Debug\PSOFAP.exe
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\bin\Debug\PSOFAP.pdb
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP.exe
+C:\Users\Burmudar\Documents\Visual Studio 2008\Projects\PSOFAP\PSOFAP\obj\Debug\PSOFAP.pdb
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.exe
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.pdb
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.exe
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.pdb
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\Window1.baml
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\Window1.g.cs
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\App.g.cs
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP_MarkupCompile.cache
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.g.resources
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.Properties.Resources.resources
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResGen.read.1.tlog
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResGen.write.1.tlog
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.exe.config
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAPConsole.exe
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAPConsole.pdb
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Burmudar\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.exe.config
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.exe
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAP.pdb
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAPConsole.exe
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\bin\Debug\PSOFAPConsole.pdb
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\Window1.baml
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\Window1.g.cs
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\App.g.cs
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP_MarkupCompile.cache
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.g.resources
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.Properties.Resources.resources
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResGen.read.1.tlog
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\ResGen.write.1.tlog
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.exe
+C:\Users\William\Documents\My Dropbox\Masters\Implementation\PSOFAP\PSOFAP\obj\Debug\PSOFAP.pdb
